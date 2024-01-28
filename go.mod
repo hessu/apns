@@ -1,4 +1,4 @@
-module github.com/edganiukov/apns
+module github.com/hessu/apns
 
 go 1.20
 
