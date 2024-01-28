@@ -20,7 +20,7 @@ const (
 )
 
 var (
-	defaultTokenRenewInterval    = 10 * time.Minute
+	defaultTokenRenewInterval    = 50 * time.Minute
 	defaultTokenValidityInterval = time.Hour
 )
 
